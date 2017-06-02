@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+// q is the number 
+// n is the length of number
 int perm(char q[],int k,int n);
 int main()
 {
